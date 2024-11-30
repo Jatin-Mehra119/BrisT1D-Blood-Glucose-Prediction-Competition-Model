@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fb01eb310ee44398b15fb7036400258f/artifacts
+end_time: 1732983195403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb01eb310ee44398b15fb7036400258f
+run_name: Hyperparameter Tuning
+run_uuid: fb01eb310ee44398b15fb7036400258f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732979956627
+status: 3
+tags: []
+user_id: jatin

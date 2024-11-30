@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732983766526
+current_stage: Deleted_Internal
+description: ''
+last_updated_timestamp: 1732983810190
+name: V1
+run_id: d6413c53d8b8415188869ee8700b2dfc
+run_link: ''
+source: models:/V1/1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/d6413c53d8b8415188869ee8700b2dfc/artifacts/lightgbm_model
+user_id: null
+version: 2

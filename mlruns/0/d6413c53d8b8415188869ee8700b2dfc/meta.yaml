@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d6413c53d8b8415188869ee8700b2dfc/artifacts
+end_time: 1732983214527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6413c53d8b8415188869ee8700b2dfc
+run_name: LightGBM Training - 50 leaves, 0.01 lr
+run_uuid: d6413c53d8b8415188869ee8700b2dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732983195603
+status: 3
+tags: []
+user_id: jatin
