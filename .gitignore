@@ -1,0 +1,13 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore CSV files in the data directory
+data/train.csv
+data/test.csv
+data/sample_submission.csv
+
+# Ignore preprocessed data
+preprocessed_data/
+preprocessed_data/df_test_final.npy
+preprocessed_data/X.npy
+preprocessed_data/y.npy
