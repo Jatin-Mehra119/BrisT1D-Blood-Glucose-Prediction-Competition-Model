@@ -3,7 +3,7 @@
 
 This repository contains the solution for the Kaggle competition **Blood Glucose Prediction**. The goal is to predict blood glucose levels one hour into the future using a dataset collected from young adults in the UK with type 1 diabetes. Participants used continuous glucose monitors (CGMs), insulin pumps, and smartwatches to collect data aggregated into five-minute intervals.
 
-### Competetion:[NoteBook](https://github.com/Jatin-Mehra119/BrisT1D-Blood-Glucose-Prediction-Competition-Notebook)
+### Competetion:[NoteBook](https://github.com/Jatin-Mehra119/BrisT1D-Blood-Glucose-Prediction-Notebook/blob/main/COMP-NoteBook.ipynb)
 
 ## Dataset Description
 
