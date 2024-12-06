@@ -1,5 +1,5 @@
-from preprocessing import create_featuresCOLS, load_data, preprocess_data
-from train_model import train_model, tune_hyperparameters
+from src.preprocessing import create_featuresCOLS, load_data, preprocess_data
+from src.train_model import train_model, tune_hyperparameters
 import pandas as pd
 
 
